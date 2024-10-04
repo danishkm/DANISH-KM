@@ -55,3 +55,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - Detection Lab
 - SOC Automation Project
+
+  <img src="https://tryhackme-badges.s3.amazonaws.com/DANISHKM.png" alt="TryHackMe">
+  
