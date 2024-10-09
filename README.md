@@ -58,3 +58,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - Detection Lab
 - SOC Automation Project
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
