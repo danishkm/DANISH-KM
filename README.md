@@ -47,11 +47,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Certifications
 <div>
-<img src="https://badgen.net/badge/eJPTv2/Pentester/ff69b4?icon=terminal&labelColor=white" />
-<img src="https://badgen.net/badge/ISC2%20CC/32CD32?icon=shield&labelColor=white" />
-<img src="https://badgen.net/badge/NSC1/Security/blue?icon=shield&labelColor=darkgray" />
-<img src="https://badgen.net/badge/NSC2/Security/darkblue?icon=shield&labelColor=darkgray" />
-
+<img src="https://badgen.net/badge/eJPTv2/Pentester/blue?icon=terminal&labelColor=white" />
+<img src="https://badgen.net/badge/ISC2%20CC/Cybersecurity/32CD32?icon=shield&labelColor=white" />
+<img src="https://badgen.net/badge/NSE%201/Network%20Security/green?icon=network_wifi&labelColor=white" />
+<img src="https://badgen.net/badge/NSE%202/Network%20Security/blue?icon=network_wifi&labelColor=white" />
 </div>
 
 ## Projects
