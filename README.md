@@ -1,4 +1,3 @@
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=265005" style='border:none;'></iframe>
 
 # Hello, I'm DANISH K M                               
 
