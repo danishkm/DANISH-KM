@@ -48,7 +48,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 
 <div>
-<img src="https://img.shields.io/badge/eJPTv2-1F1F1F?style=for-the-badge&logo=hackthebox&logoColor=white" />
+<img src="https://img.shields.io/badge/eJPT-v2-1F1F1F?style=for-the-badge&logo=hackthebox&logoColor=white" />
 <img src="https://img.shields.io/badge/-ICS2%20CC-0000FF?&style=for-the-badge&logo=security&logoColor=white" />
 <img src="https://img.shields.io/badge/-NSE1%20-%2300A3E0?&style=for-the-badge&logo=netskope&logoColor=white" />
 <img src="https://img.shields.io/badge/-NSE2%20-%2300A3E0?&style=for-the-badge&logo=netskope&logoColor=white" />
